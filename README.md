@@ -11,7 +11,11 @@
 4. **Run the Application**    
 Start the Spring Boot application to run the Eureka Server. 
 
-**Here Ankit Rajput Setup Demo**  
+**Here Ankit Rajput Setup Demo**   
+
+**HardCode URL setup removed** 
+![Image](https://github.com/user-attachments/assets/4f44dc21-6c2d-404a-96f6-2ec5d834bcff)
+
 ![Image](https://github.com/user-attachments/assets/9d9ecf8a-8583-4b85-be08-9bbb3caba2c0)
 
 ![Image](https://github.com/user-attachments/assets/7f905aa1-0a4a-4aa9-aa00-a707783280ac) 
