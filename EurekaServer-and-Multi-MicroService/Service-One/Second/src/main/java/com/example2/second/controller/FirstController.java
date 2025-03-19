@@ -1,5 +1,6 @@
 package com.example2.second.controller;
 
+import com.example2.second.dto.UserDTO;
 import com.example2.second.entity.Data;
 import com.example2.second.service.ServiceData;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
@@ -29,5 +30,10 @@ public class FirstController {
     @GetMapping
     public List<Data> getDetails() {
 	   return setService.findAllDetails();
+    }
+
+    @GetMapping("/user/{Id}")
+    public UserDTO getUserDetails(@PathVariable Long Id){
+	   return setService.getUser(Id);
     }
 }
