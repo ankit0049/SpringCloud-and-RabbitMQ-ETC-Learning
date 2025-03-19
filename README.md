@@ -32,7 +32,12 @@ eureka.client.register-with-eureka=false
 eureka.client.fetch-registry=false
 eureka.server.wait-time-in-ms-when-sync-empty=0
  ```
----
+--- 
+
+
+### Inside Second Service call User Service and Fetch User Data  
+![Image](https://github.com/user-attachments/assets/37dd9907-fe67-4850-92cc-22d286a73b78)
+
 ---- 
 
 
